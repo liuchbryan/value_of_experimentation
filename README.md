@@ -1,4 +1,6 @@
-This repository contains the code used in the paper "What is the value of Experimentation & Measurement?", which is under review.
+**Note: This code repository is no longer being maintained. Please refer to [this repository](https://github.com/liuchbryan/ranking_under_lower_uncertainty) instead for the more up-to-date (and more robust) version of the same work.**
+
+This repository contains the code used in the paper [What is the value of Experimentation & Measurement?](https://ieeexplore.ieee.org/document/8970749), which appeared in the IEEE ICDM 2019 conference.
 
 Requirements: `python>=3.6`, `numpy`, `scipy`, `pandas`, `matplotlib`
 
